@@ -354,8 +354,9 @@ apply broader style changes, like switching the page background.
 
 </t>
 <t tx="amd.20161004083800.8">&lt;section&gt;
-    &lt;h1&gt;2016Fall CADP  電腦輔助設計課程&lt;/h1&gt;
-    &lt;h3&gt;第二組 40423103 劉怡萱&lt;/h3&gt;
+    &lt;h1&gt;2016Fall CADP&lt;/h1&gt;
+    &lt;h1&gt;電腦輔助設計課程&lt;/h1&gt;
+    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
     &lt;p&gt;
     &lt;small&gt;
     Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; / 
@@ -468,9 +469,11 @@ make.start()
 
 						
 </t>
-<t tx="amd.20161004095719.2"># 2016Fall CPA 計算機程式課程
+<t tx="amd.20161004095719.2"># 2016Fall CADP
 
-### THE HTML PRESENTATION FRAMEWORK
+#電腦輔助設計課程
+
+###設計二甲 第二組 40423103 劉怡萱
 
 &lt;small&gt;
 Created by [Hakim El Hattab](http://hakim.se)
