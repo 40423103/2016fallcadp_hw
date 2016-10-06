@@ -257,7 +257,7 @@ apply broader style changes, like switching the page background.
 </t>
 <t tx="amd.20161004083800.2">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
-    &lt;title&gt;    2016 Fall 計算機程式課程
+    &lt;title&gt;    2016 Fall CADPA 電腦輔助設計課程
     &lt;&lt; 投影片標題 &gt;&gt;
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
