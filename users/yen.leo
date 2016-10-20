@@ -31,6 +31,9 @@
 <v t="leo.20161020151552.1" a="E"><vh>建立作業倉儲</vh>
 <v t="leo.20161020150933.1"><vh>建立作業倉儲</vh></v>
 </v>
+<v t="leo.20161020160047.1" a="E"><vh>Solvespace</vh>
+<v t="leo.20161020160047.2"><vh>建立作業倉儲</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -319,5 +322,12 @@ DEFAULT_DATE = 'fs'</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20161020160047.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161020160047.2">#零件繪製</t>
 </tnodes>
 </leo_file>
