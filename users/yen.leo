@@ -195,7 +195,7 @@ Created by [40423103](http://40423103.github.io/2016fallcadp_hw/blog/)
 &lt;/small&gt;
 
 
-[Vimeo 課程影片](https://vimeo.com/user45467634/videos)
+
 
 </t>
 <t tx="leo.20151212173315.1"></t>
@@ -304,13 +304,15 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
 
 DEFAULT_DATE = 'fs'</t>
-<t tx="leo.20161020150933.1">##建立作業倉儲  2016fallcadp_hw
+<t tx="leo.20161020150933.1">#建立作業倉儲
 
-#[倉儲](https://github.com/40423103/2016fallcadp_hw)
+##[倉儲](https://github.com/40423103/2016fallcadp_hw)
 
-#[投影片](https://40423103.github.io/2016fallcadp_hw)
+##[投影片](https://40423103.github.io/2016fallcadp_hw)
 
-#[BLOG](https://40423103.github.io/2016fallcadp_hw/blog)</t>
+##[BLOG](https://40423103.github.io/2016fallcadp_hw/blog)
+
+##[Vimeo 課程影片](https://vimeo.com/user45467634/videos)</t>
 <t tx="leo.20161020151552.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
