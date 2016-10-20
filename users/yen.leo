@@ -184,9 +184,11 @@ print("hello")
 
 						
 </t>
-<t tx="amd.20161004095719.2"># 2016Fall 電腦輔助設計實習課程
+<t tx="amd.20161004095719.2">#2016 Fall CADP
 
-#設計二甲 40423103 劉怡萱
+##電腦輔助設計實習課程
+
+##設計二甲 40423103 劉怡萱
 
 &lt;small&gt;
 Created by [40423103](http://40423103.github.io/2016fallcadp_hw/blog/)
