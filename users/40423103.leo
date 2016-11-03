@@ -9,10 +9,6 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151212173315.1" a="E"><vh>@settings</vh>
-<v t="leo.20151212173315.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
-<v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
-</v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
 <v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
@@ -32,7 +28,12 @@
 <v t="leo.20161020150933.1"><vh>建立作業倉儲</vh></v>
 </v>
 <v t="leo.20161020160047.1" a="E"><vh>Solvespace</vh>
-<v t="leo.20161020160047.2"><vh>建立作業倉儲</vh></v>
+<v t="leo.20161103134327.1" a="E"><vh>Solvespace</vh>
+<v t="leo.20161103134327.2"><vh>零件繪製</vh></v>
+</v>
+<v t="leo.20161103134337.1" a="E"><vh>Solvespace</vh>
+<v t="leo.20161103134337.2"><vh>零件繪製</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -201,82 +202,6 @@ Created by [40423103](http://40423103.github.io/2016fallcadp_hw/blog/)
 
 
 </t>
-<t tx="leo.20151212173315.1"></t>
-<t tx="leo.20151212173315.2">QTreeWidget {
-    /* These apply to the selected item, but not to editing items.*/
-    background-color: #ffffec; /* Leo's traditional tree color */
-    selection-color: black; /* was white */
-    selection-background-color: lightgrey;
-    /* font-family: SansSerif; */
-    /*font-family: DejaVu Sans Mono;*/
-    font-family:YaHei Mono;
-    /* 標題字型大小設定 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal, italic,oblique */
- }
-
-/* Headline edit widgets */
-QTreeWidget QLineEdit {
-    background-color: cornsilk;
-    selection-color: white;
-    selection-background-color: blue;
-    /*font-family: DejaVu Sans Mono;*/    
-    font-family:YaHei Mono;
-    /* 沒有特別對應字型大小 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal, italic,oblique */
-}
-
-/* The log panes */
-QTextEdit {
-    background-color: #f2fdff;
-    selection-color: red;
-    selection-background-color: blue;
-    /* font-family: Courier New; */
-    font-family:YaHei Mono;
-    /* log font 大小 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal, italic,oblique */
-}
-
-/* The body pane */
-QTextEdit#richTextEdit {
-    background-color: #fdf5f5; /* A kind of pink. */
-    selection-color: white;
-    selection-background-color: red;
-    /*font-family: DejaVu Sans Mono;*/
-    /* font-family: Courier New; */
-    font-family:YaHei Mono;
-    /* 內文字型大小 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal,italic,oblique */
-}
-
-QLabel {
-    font-family:YaHei Mono;'CherryPy', 'pytz', 'mako', 'beautifulsoup4', 'pymysql', 'peewee'
-    /* 下方的 Minibuffer 標題字型大小 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal,italic,oblique */
-}
-
-/* Editor labels */
-QLineEdit#editorLabel {
-    background-color: #ffffec;
-    font-family:YaHei Mono;
-    /* 沒有直接對應字型大小 */
-    font-size: 20px;
-    font-weight: normal; /* normal,bold,100,..,900 */
-    font-style: normal; /* normal,italic,oblique */
-    border: 2px;
-    margin: 2px;
-}</t>
-<t tx="leo.20151212173315.3">horizontal: body pane to the left
-vertical: body pane on the botton</t>
 <t tx="leo.20151213085727.1">@language python
 import os
 #os.system("pelican content -o output -s local_publishconf.py -t theme/pelican-bootstrap3")
@@ -322,12 +247,28 @@ DEFAULT_DATE = 'fs'</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20161020160047.1">&lt;section data-markdown&gt;
+<t tx="leo.20161020160047.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161103134327.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20161020160047.2">#零件繪製</t>
+<t tx="leo.20161103134327.2">#零件繪製
+
+&lt;img src="http://i.imgur.com/H8GL7gE.png" width= "800"/&gt;</t>
+<t tx="leo.20161103134337.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161103134337.2">###操作影片
+
+&lt;iframe src="https://player.vimeo.com/video/190046851" width="1000" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+</t>
 </tnodes>
 </leo_file>
