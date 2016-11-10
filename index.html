@@ -73,7 +73,49 @@ Created by [40423103](http://40423103.github.io/2016fallcadp_hw/blog/)
 <section>
 <section data-markdown>
     <script type="text/template">
-#零件繪製
+#submodule
+
+##建立倉儲子目錄
+
+    </script>
+</section>
+<section data-markdown>
+    <script type="text/template">
+##增加子目錄
+
+1. git clone 倉儲
+
+2. cd 倉儲資料夾
+
+3. git submodule add 子目錄倉儲網址 子目錄名稱
+    </script>
+</section>
+<section data-markdown>
+    <script type="text/template">
+##更新子目錄
+
+1. git submodule update --init --recursive 
+
+    (先將原倉儲內的子目錄資料抓下來)
+
+2. git submodule foreach --recursive git pull origin gh-pages
+
+    (更新所有子目錄到最新版本)
+    </script>
+</section>
+</section>
+<section>
+<section data-markdown>
+    <script type="text/template">
+#SolveSpace
+
+    </script>
+</section>
+<section data-markdown>
+    <script type="text/template">
+##零件繪製
+
+###Tutorial: Drawing an ANGLE BRACKET
 
 <img src="http://i.imgur.com/H8GL7gE.png" width= "800"/>
     </script>
@@ -82,7 +124,7 @@ Created by [40423103](http://40423103.github.io/2016fallcadp_hw/blog/)
     <script type="text/template">
 ###操作影片
 
-<iframe src="https://player.vimeo.com/video/190046851" width="1000" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/190046851" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
     </script>
 </section>
 </section>

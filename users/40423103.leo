@@ -21,15 +21,29 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161020151552.1" a="E"><vh>建立作業倉儲</vh>
+<v t="leo.20161020151552.1"><vh>建立作業倉儲</vh>
 <v t="leo.20161020150933.1"><vh>建立作業倉儲</vh></v>
+</v>
+<v t="leo.20161110153034.1"><vh>submodule</vh>
+<v t="leo.20161110153331.1" a="E"><vh>submodule</vh>
+<v t="leo.20161110153331.2"><vh>title</vh></v>
+</v>
+<v t="leo.20161110153034.2" a="E"><vh>建立</vh>
+<v t="leo.20161110153034.3"><vh>指令</vh></v>
+</v>
+<v t="leo.20161110153034.4" a="E"><vh>更新</vh>
+<v t="leo.20161110153034.5"><vh>指令</vh></v>
+</v>
 </v>
 <v t="leo.20161020160047.1" a="E"><vh>Solvespace</vh>
 <v t="leo.20161103134327.1" a="E"><vh>Solvespace</vh>
 <v t="leo.20161103134327.2"><vh>零件繪製</vh></v>
+</v>
+<v t="leo.20161110151652.1" a="E"><vh>Solvespace</vh>
+<v t="leo.20161110151652.2"><vh>零件繪製</vh></v>
 </v>
 <v t="leo.20161103134337.1" a="E"><vh>Solvespace</vh>
 <v t="leo.20161103134337.2"><vh>零件繪製</vh></v>
@@ -251,9 +265,9 @@ DEFAULT_DATE = 'fs'</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20161103134327.2">#零件繪製
+<t tx="leo.20161103134327.2">#SolveSpace
 
-&lt;img src="http://i.imgur.com/H8GL7gE.png" width= "800"/&gt;</t>
+</t>
 <t tx="leo.20161103134337.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -262,7 +276,61 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161103134337.2">###操作影片
 
-&lt;iframe src="https://player.vimeo.com/video/190046851" width="1000" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;iframe src="https://player.vimeo.com/video/190046851" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+</t>
+<t tx="leo.20161110151652.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110151652.2">##零件繪製
+
+###Tutorial: Drawing an ANGLE BRACKET
+
+&lt;img src="http://i.imgur.com/H8GL7gE.png" width= "800"/&gt;</t>
+<t tx="leo.20161110153034.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110153034.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110153034.3">##增加子目錄
+
+1. git clone 倉儲
+
+2. cd 倉儲資料夾
+
+3. git submodule add 子目錄倉儲網址 子目錄名稱</t>
+<t tx="leo.20161110153034.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110153034.5">##更新子目錄
+
+1. git submodule update --init --recursive 
+
+    (先將原倉儲內的子目錄資料抓下來)
+
+2. git submodule foreach --recursive git pull origin gh-pages
+
+    (更新所有子目錄到最新版本)</t>
+<t tx="leo.20161110153331.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110153331.2">#submodule
+
+##建立倉儲子目錄
+
 </t>
 </tnodes>
 </leo_file>
