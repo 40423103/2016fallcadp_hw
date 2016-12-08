@@ -38,7 +38,7 @@
 <v t="leo.20161110153034.5"><vh>指令</vh></v>
 </v>
 </v>
-<v t="leo.20161020160047.1" a="E"><vh>Solvespace</vh>
+<v t="leo.20161020160047.1"><vh>Solvespace</vh>
 <v t="leo.20161103134327.1" a="E"><vh>Solvespace</vh>
 <v t="leo.20161103134327.2"><vh>零件繪製</vh></v>
 </v>
@@ -47,6 +47,23 @@
 </v>
 <v t="leo.20161103134337.1" a="E"><vh>Solvespace</vh>
 <v t="leo.20161103134337.2"><vh>零件繪製</vh></v>
+</v>
+</v>
+<v t="leo.20161208155131.1" a="E"><vh>onshape w2</vh>
+<v t="leo.20161208155131.2" a="E"><vh>w2</vh>
+<v t="leo.20161208155131.3"><vh>1</vh></v>
+</v>
+<v t="leo.20161208155131.4" a="E"><vh>week2</vh>
+<v t="leo.20161208155131.5"><vh>2</vh></v>
+</v>
+<v t="leo.20161208155131.6" a="E"><vh>2-p1</vh>
+<v t="leo.20161208155131.7"><vh>2-part1 影片</vh></v>
+</v>
+<v t="leo.20161208155131.8" a="E"><vh>2-p2</vh>
+<v t="leo.20161208155131.9"><vh>2-part2 影片</vh></v>
+</v>
+<v t="leo.20161208155131.10" a="E"><vh>2-p3</vh>
+<v t="leo.20161208155131.11"><vh>2-part3 影片</vh></v>
 </v>
 </v>
 </v>
@@ -67,9 +84,9 @@
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit onshapew2.md</vh></v>
 </v>
-<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -332,5 +349,52 @@ DEFAULT_DATE = 'fs'</t>
 ##建立倉儲子目錄
 
 </t>
+<t tx="leo.20161208155131.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161208155131.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161208155131.11">##Exercise#3
+
+&lt;iframe src="https://player.vimeo.com/video/190932907" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161208155131.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161208155131.3">##Onshape College Curriculum
+
+#Week02 Homework
+</t>
+<t tx="leo.20161208155131.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161208155131.5">&lt;img src="http://i.imgur.com/2xRCwot.png" /&gt;</t>
+<t tx="leo.20161208155131.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161208155131.7">##Exercise#1
+
+&lt;iframe src="https://player.vimeo.com/video/190911807" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161208155131.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161208155131.9">##Exercise#2
+
+&lt;iframe src="https://player.vimeo.com/video/190927575" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
