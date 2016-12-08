@@ -1,4 +1,4 @@
-Title:Soolvespace Tutorial 1
+Title:Solvespace Tutorial 1
 Date: 2016-12-8 12:00
 Category: Solvespace
 Tags: Solvespace
