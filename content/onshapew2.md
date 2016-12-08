@@ -1,5 +1,4 @@
 Title: Onshape College Curriculum Week02 Homework
-
 Date: 2016-12-8 12:00
 Category: Onshape
 Tags: Onshape

@@ -38,7 +38,7 @@
 <v t="leo.20161110153034.5"><vh>指令</vh></v>
 </v>
 </v>
-<v t="leo.20161020160047.1"><vh>Solvespace</vh>
+<v t="leo.20161020160047.1" a="E"><vh>Solvespace</vh>
 <v t="leo.20161103134327.1" a="E"><vh>Solvespace</vh>
 <v t="leo.20161103134327.2"><vh>零件繪製</vh></v>
 </v>
@@ -49,7 +49,7 @@
 <v t="leo.20161103134337.2"><vh>零件繪製</vh></v>
 </v>
 </v>
-<v t="leo.20161208155131.1" a="E"><vh>onshape w2</vh>
+<v t="leo.20161208155131.1"><vh>onshape w2</vh>
 <v t="leo.20161208155131.2" a="E"><vh>w2</vh>
 <v t="leo.20161208155131.3"><vh>1</vh></v>
 </v>
@@ -84,7 +84,8 @@
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
-<v t="amd.20160727120222.1"><vh>@edit onshapew2.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit solvespace1.md</vh></v>
+<v t="leo.20161208162103.1"><vh>@edit onshapew2.md</vh></v>
 </v>
 <v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>

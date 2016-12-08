@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-12-08T16:10:35-00:00</lastmod>
+<lastmod>2016-12-08T16:28:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-12-08T16:10:35-00:00</lastmod>
+<lastmod>2016-12-08T16:28:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-12-08T16:10:35-00:00</lastmod>
+<lastmod>2016-12-08T16:28:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-12-08T16:10:35-00:00</lastmod>
+<lastmod>2016-12-08T16:28:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,21 +40,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./onshape-college-curriculum-week02-homework.html</loc>
-<lastmod>2016-11-10T06:34:33+08:00</lastmod>
+<lastmod>2016-12-08T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/misc.html</loc>
-<lastmod>2016-11-10T06:34:33+08:06</lastmod>
+<loc>./soolvespace-tutorial-1.html</loc>
+<lastmod>2016-12-08T12:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/onshape.html</loc>
+<lastmod>2016-12-08T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/kmol.html</loc>
-<lastmod>2016-11-10T06:34:33+08:06</lastmod>
+<loc>./category/solvespace.html</loc>
+<lastmod>2016-12-08T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/solvespace.html</loc>
+<lastmod>2016-12-08T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/onshape.html</loc>
+<lastmod>2016-12-08T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/40423103.html</loc>
+<lastmod>2016-12-08T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
