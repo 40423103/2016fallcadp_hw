@@ -21,4 +21,29 @@
 &lt;h1&gt;SolveSpace&lt;/h1&gt;
 &lt;p&gt;&lt;img src="http://i.imgur.com/H8GL7gE.png" width= "800"/&gt;&lt;/p&gt;
 &lt;h3&gt;操作影片&lt;/h3&gt;
-&lt;iframe src="https://player.vimeo.com/video/190046851" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Solvespace"></category></entry></feed>
+&lt;iframe src="https://player.vimeo.com/video/190046851" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Solvespace"></category></entry><entry><title>Submodule</title><link href="./submodule.html" rel="alternate"></link><published>2016-10-08T12:00:00+08:00</published><updated>2016-10-08T12:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2016-10-08:./submodule.html</id><summary type="html">&lt;p&gt;Submodule&lt;/p&gt;
+
+
+&lt;h2&gt;增加子目錄&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;git clone 倉儲&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;cd 倉儲資料夾&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;git submodule add 子目錄倉儲網址 子目錄名稱&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;更新子目錄&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;git submodule update --init --recursive &lt;/p&gt;
+&lt;p&gt;(先將原倉儲內的子目錄資料抓下來)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;git submodule foreach --recursive git pull origin gh-pages&lt;/p&gt;
+&lt;p&gt;(更新所有子目錄到最新版本)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="Submodule"></category></entry></feed>

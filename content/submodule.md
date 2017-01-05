@@ -1,0 +1,30 @@
+Title:Submodule
+Date: 2016-10-8 12:00
+Category: Solvespace
+Tags: Submodule
+Author: 40423103
+
+Submodule
+
+<!-- PELICAN_END_SUMMARY -->
+
+
+##增加子目錄
+
+ 1. git clone 倉儲
+
+ 2. cd 倉儲資料夾
+
+ 3. git submodule add 子目錄倉儲網址 子目錄名稱
+
+##更新子目錄
+
+1. git submodule update --init --recursive 
+
+    (先將原倉儲內的子目錄資料抓下來)
+
+2. git submodule foreach --recursive git pull origin gh-pages
+
+    (更新所有子目錄到最新版本)
+
+

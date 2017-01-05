@@ -27,7 +27,7 @@
 <v t="leo.20161020151552.1"><vh>建立作業倉儲</vh>
 <v t="leo.20161020150933.1"><vh>建立作業倉儲</vh></v>
 </v>
-<v t="leo.20161110153034.1"><vh>submodule</vh>
+<v t="leo.20161110153034.1" a="E"><vh>submodule</vh>
 <v t="leo.20161110153331.1" a="E"><vh>submodule</vh>
 <v t="leo.20161110153331.2"><vh>title</vh></v>
 </v>
@@ -38,7 +38,7 @@
 <v t="leo.20161110153034.5"><vh>指令</vh></v>
 </v>
 </v>
-<v t="leo.20161020160047.1" a="E"><vh>Solvespace</vh>
+<v t="leo.20161020160047.1"><vh>Solvespace</vh>
 <v t="leo.20161103134327.1" a="E"><vh>Solvespace</vh>
 <v t="leo.20161103134327.2"><vh>零件繪製</vh></v>
 </v>
@@ -71,7 +71,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -84,10 +84,11 @@
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
-<v t="amd.20160727120222.1"><vh>@edit solvespace1.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit submodule.md</vh></v>
+<v t="leo.20170105151309.1"><vh>@edit solvespace1.md</vh></v>
 <v t="leo.20161208162103.1"><vh>@edit onshapew2.md</vh></v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
