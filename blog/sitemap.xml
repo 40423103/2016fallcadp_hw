@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-01-05T15:16:11-00:00</lastmod>
+<lastmod>2017-01-12T15:43:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-01-05T15:16:11-00:00</lastmod>
+<lastmod>2017-01-12T15:43:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-01-05T15:16:11-00:00</lastmod>
+<lastmod>2017-01-12T15:43:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-01-05T15:16:11-00:00</lastmod>
+<lastmod>2017-01-12T15:43:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-01-05T15:09:32+08:00</lastmod>
+<lastmod>2017-01-12T14:32:19+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./dian-nao-fu-zhu-she-ji-shi-xi-zong-jie.html</loc>
+<lastmod>2017-01-12T14:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -60,6 +67,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/misc.html</loc>
+<lastmod>2017-01-12T14:30:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/onshape.html</loc>
 <lastmod>2016-12-08T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -68,6 +82,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/solvespace.html</loc>
+<lastmod>2016-12-08T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/onshape.html</loc>
 <lastmod>2016-12-08T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -88,15 +109,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/onshape.html</loc>
-<lastmod>2016-12-08T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>./author/40423103.html</loc>
-<lastmod>2016-12-08T12:00:00+08:06</lastmod>
+<lastmod>2017-01-12T14:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
