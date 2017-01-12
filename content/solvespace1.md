@@ -14,7 +14,7 @@ Tutorial: Drawing an ANGLE BRACKET
 
 ###操作影片
 
-<iframe src="https://player.vimeo.com/video/190046851" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/190046851" width="720" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 
 

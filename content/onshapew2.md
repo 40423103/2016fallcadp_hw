@@ -14,7 +14,7 @@ Onshape College Curriculum Week02 Homework
 
 ##繪製影片
 
-<iframe src="https://player.vimeo.com/video/190911807" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/190911807" width="720" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 #Exercise2
 
@@ -22,7 +22,7 @@ Onshape College Curriculum Week02 Homework
 
 ##繪製影片
 
-<iframe src="https://player.vimeo.com/video/190927575" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/190927575" width="720" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 #Exercise3
 
@@ -30,7 +30,7 @@ Onshape College Curriculum Week02 Homework
 
 ##繪製影片
 
-<iframe src="https://player.vimeo.com/video/190932907" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/190932907" width="720" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 

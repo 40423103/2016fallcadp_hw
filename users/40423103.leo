@@ -21,7 +21,7 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20161020151552.1"><vh>建立作業倉儲</vh>
@@ -87,6 +87,7 @@
 <v t="amd.20160727120222.1"><vh>@edit submodule.md</vh></v>
 <v t="leo.20170105151309.1"><vh>@edit solvespace1.md</vh></v>
 <v t="leo.20161208162103.1"><vh>@edit onshapew2.md</vh></v>
+<v t="leo.20170112143419.1"><vh>@edit 總結.md</vh></v>
 </v>
 <v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
