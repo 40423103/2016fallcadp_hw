@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-01-12T16:15:40-00:00</lastmod>
+<lastmod>2017-01-18T01:30:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-01-12T16:15:40-00:00</lastmod>
+<lastmod>2017-01-18T01:30:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-01-12T16:15:40-00:00</lastmod>
+<lastmod>2017-01-18T01:30:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-01-12T16:15:40-00:00</lastmod>
+<lastmod>2017-01-18T01:30:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-01-12T14:32:19+08:00</lastmod>
+<lastmod>2017-01-17T23:50:08+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,22 +46,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./onshape-college-curriculum-week02-homework.html</loc>
-<lastmod>2016-12-08T12:00:00+08:00</lastmod>
+<loc>./161208-onshape-zuo-ye.html</loc>
+<lastmod>2016-12-08T19:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./solvespace-tutorial-1.html</loc>
-<lastmod>2016-12-08T12:00:00+08:00</lastmod>
+<loc>./161124-solvespace-jie-shao.html</loc>
+<lastmod>2016-11-24T19:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./submodule.html</loc>
-<lastmod>2016-10-08T12:00:00+08:00</lastmod>
+<loc>./161103-solvespace-si-lian-gan-ji-gou.html</loc>
+<lastmod>2016-11-03T19:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./161027-solvespace-tutorial.html</loc>
+<lastmod>2016-10-27T19:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./161006-githubzi-mu-lu.html</loc>
+<lastmod>2016-10-06T19:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,35 +89,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/onshape.html</loc>
-<lastmod>2016-12-08T12:00:00+08:06</lastmod>
+<lastmod>2016-12-08T19:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/solvespace.html</loc>
-<lastmod>2016-12-08T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/submodule.html</loc>
-<lastmod>2016-10-08T12:00:00+08:06</lastmod>
+<lastmod>2016-11-24T19:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/solvespace.html</loc>
-<lastmod>2016-12-08T12:00:00+08:06</lastmod>
+<lastmod>2016-11-24T19:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/submodule.html</loc>
+<lastmod>2016-10-06T19:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/onshape.html</loc>
-<lastmod>2016-12-08T12:00:00+08:06</lastmod>
+<lastmod>2016-12-08T19:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

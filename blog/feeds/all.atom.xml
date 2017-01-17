@@ -4,29 +4,64 @@
 
 &lt;h1&gt;建立子目錄&lt;p&gt;&lt;a href="https://40423103.github.io/2016fallcadp_hw/blog/submodule.html"&lt;/a&gt;Link&lt;/p&gt;&lt;/h1&gt;
 &lt;h1&gt;Solvespace繪圖&lt;p&gt;&lt;a href="https://40423103.github.io/2016fallcadp_hw/blog/solvespace-tutorial-1.html"&lt;/a&gt;Link&lt;/p&gt;&lt;/h1&gt;
-&lt;h1&gt;Onshape作業&lt;p&gt;&lt;a href="https://40423103.github.io/2016fallcadp_hw/blog/onshape-college-curriculum-week02-homework.html"&lt;/a&gt;Link&lt;/p&gt;&lt;/h1&gt;</summary></entry><entry><title>Onshape College Curriculum Week02 Homework</title><link href="./onshape-college-curriculum-week02-homework.html" rel="alternate"></link><published>2016-12-08T12:00:00+08:00</published><updated>2016-12-08T12:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2016-12-08:./onshape-college-curriculum-week02-homework.html</id><summary type="html">&lt;p&gt;Onshape College Curriculum Week02 Homework &lt;/p&gt;
+&lt;h1&gt;Onshape作業&lt;p&gt;&lt;a href="https://40423103.github.io/2016fallcadp_hw/blog/onshape-college-curriculum-week02-homework.html"&lt;/a&gt;Link&lt;/p&gt;&lt;/h1&gt;</summary></entry><entry><title>16/12/08 Onshape 作業</title><link href="./161208-onshape-zuo-ye.html" rel="alternate"></link><published>2016-12-08T19:00:00+08:00</published><updated>2016-12-08T19:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2016-12-08:./161208-onshape-zuo-ye.html</id><summary type="html">&lt;p&gt;Onshape College Curriculum Week02 Homework &lt;/p&gt;
 
 
 &lt;h1&gt;Exercise1&lt;/h1&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/llGQ4hP.jpg" &gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/llGQ4hP.jpg" width= "720"&gt;&lt;/p&gt;
 &lt;h2&gt;繪製影片&lt;/h2&gt;
 &lt;iframe src="https://player.vimeo.com/video/190911807" width="720" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h1&gt;Exercise2&lt;/h1&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/1AhmhEX.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/1AhmhEX.jpg"width= "720"&gt;&lt;/p&gt;
 &lt;h2&gt;繪製影片&lt;/h2&gt;
 &lt;iframe src="https://player.vimeo.com/video/190927575" width="720" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h1&gt;Exercise3&lt;/h1&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/45dhpIN.jpg" &gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/45dhpIN.jpg" width= "720"&gt;&lt;/p&gt;
 &lt;h2&gt;繪製影片&lt;/h2&gt;
-&lt;iframe src="https://player.vimeo.com/video/190932907" width="720" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Onshape"></category></entry><entry><title>Solvespace Tutorial 1</title><link href="./solvespace-tutorial-1.html" rel="alternate"></link><published>2016-12-08T12:00:00+08:00</published><updated>2016-12-08T12:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2016-12-08:./solvespace-tutorial-1.html</id><summary type="html">&lt;p&gt;Tutorial: Drawing an ANGLE BRACKET&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/190932907" width="720" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Onshape"></category></entry><entry><title>16/11/24 Solvespace 介紹</title><link href="./161124-solvespace-jie-shao.html" rel="alternate"></link><published>2016-11-24T19:00:00+08:00</published><updated>2016-11-24T19:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2016-11-24:./161124-solvespace-jie-shao.html</id><summary type="html">&lt;p&gt;Solvespace 零件、組件&lt;/p&gt;
+
+
+&lt;h1&gt;伸長(Extruding)&lt;/h1&gt;
+&lt;h2&gt;長出(union)&lt;/h2&gt;
+&lt;iframe src="./../data/伸長長出.html" width="720" height="540"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;除料(difference)&lt;/h2&gt;
+&lt;iframe src="./../data/伸長除料.html" width="720" height="540"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;旋轉(Rotating)&lt;/h1&gt;
+&lt;h2&gt;長出&lt;/h2&gt;
+&lt;iframe src="./../data/旋轉長出.html" width="720" height="540"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;除料&lt;/h2&gt;
+&lt;iframe src="./../data/旋轉除料.html" width="720" height="540"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;組裝(Linking)&lt;/h1&gt;
+&lt;h2&gt;零件組裝&lt;/h2&gt;
+&lt;iframe src="./../data/零件組裝.html" width="720" height="540"&gt;&lt;/iframe&gt;</summary><category term="Solvespace"></category></entry><entry><title>16/11/03 Solvespace 四連桿機構</title><link href="./161103-solvespace-si-lian-gan-ji-gou.html" rel="alternate"></link><published>2016-11-03T19:00:00+08:00</published><updated>2016-11-03T19:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2016-11-03:./161103-solvespace-si-lian-gan-ji-gou.html</id><summary type="html">&lt;p&gt;四連桿機構&lt;/p&gt;
+
+
+&lt;h2&gt;繪製四連桿&lt;/h2&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/O7OMb9O.jpg"width= "720" &gt;&lt;/p&gt;
+&lt;h2&gt;移動軌跡&lt;/h2&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/DtUYYgK.jpg"width= "720"&gt;&lt;/p&gt;
+&lt;h2&gt;繪製影片&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/199792084" width="720" height="520" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;利用Excel畫出路線圖&lt;/h2&gt;
+&lt;p&gt;將路徑存成csv檔，用Excel打開，再製成圖表&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/aKBlRRl.png"width= "720"&gt;&lt;/p&gt;
+&lt;h2&gt;操作影片&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/199798135" width="720" height="520" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Solvespace"></category></entry><entry><title>16/10/27 Solvespace Tutorial</title><link href="./161027-solvespace-tutorial.html" rel="alternate"></link><published>2016-10-27T19:00:00+08:00</published><updated>2016-10-27T19:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2016-10-27:./161027-solvespace-tutorial.html</id><summary type="html">&lt;p&gt;Solvespace Tutorial: Drawing an ANGLE BRACKET&lt;/p&gt;
 
 
 &lt;h1&gt;SolveSpace&lt;/h1&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/H8GL7gE.png" width= "800"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/H8GL7gE.png" width= "720"/&gt;&lt;/p&gt;
 &lt;h3&gt;操作影片&lt;/h3&gt;
-&lt;iframe src="https://player.vimeo.com/video/190046851" width="720" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Solvespace"></category></entry><entry><title>Submodule</title><link href="./submodule.html" rel="alternate"></link><published>2016-10-08T12:00:00+08:00</published><updated>2016-10-08T12:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2016-10-08:./submodule.html</id><summary type="html">&lt;p&gt;Submodule&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/190046851" width="720" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Solvespace"></category></entry><entry><title>16/10/06 Github子目錄</title><link href="./161006-githubzi-mu-lu.html" rel="alternate"></link><published>2016-10-06T19:00:00+08:00</published><updated>2016-10-06T19:00:00+08:00</updated><author><name>40423103</name></author><id>tag:,2016-10-06:./161006-githubzi-mu-lu.html</id><summary type="html">&lt;p&gt;Submodule&lt;/p&gt;
 
 
 &lt;h2&gt;增加子目錄&lt;/h2&gt;
