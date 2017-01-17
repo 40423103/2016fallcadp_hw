@@ -49,6 +49,26 @@
 <v t="leo.20161103134337.2"><vh>零件繪製</vh></v>
 </v>
 </v>
+<v t="leo.20170118025026.1"><vh>Solvespace四連桿</vh>
+<v t="leo.20170118025026.2" a="E"><vh>Solvespace</vh>
+<v t="leo.20170118025026.3"><vh>四連桿</vh></v>
+</v>
+<v t="leo.20170118025026.4" a="E"><vh>Solvespace</vh>
+<v t="leo.20170118025026.5"><vh>零件繪製</vh></v>
+</v>
+<v t="leo.20170118025026.6" a="E"><vh>Solvespace</vh>
+<v t="leo.20170118025026.7"><vh>路徑</vh></v>
+</v>
+<v t="leo.20170118025236.1" a="E"><vh>Solvespace</vh>
+<v t="leo.20170118025236.2"><vh>路徑影片</vh></v>
+</v>
+<v t="leo.20170118025314.1" a="E"><vh>Solvespace</vh>
+<v t="leo.20170118025314.2"><vh>表格</vh></v>
+</v>
+<v t="leo.20170118025316.1" a="E"><vh>Solvespace</vh>
+<v t="leo.20170118025316.2"><vh>操作影片</vh></v>
+</v>
+</v>
 <v t="leo.20161208155131.1"><vh>onshape w2</vh>
 <v t="leo.20161208155131.2"><vh>w2</vh>
 <v t="leo.20161208155131.3"><vh>1</vh></v>
@@ -401,5 +421,71 @@ DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20161208155131.9">##Exercise#2
 
 &lt;iframe src="https://player.vimeo.com/video/190927575" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170118025026.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170118025026.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170118025026.3">#Solvespace
+
+#四連桿機構
+
+</t>
+<t tx="leo.20170118025026.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170118025026.5">##繪製
+
+
+&lt;img src="http://i.imgur.com/O7OMb9O.jpg"width= "720" &gt;</t>
+<t tx="leo.20170118025026.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170118025026.7">##移動軌跡
+
+&lt;img src="http://i.imgur.com/DtUYYgK.jpg"width= "720"&gt;
+</t>
+<t tx="leo.20170118025236.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170118025236.2">##繪製影片
+
+&lt;iframe src="https://player.vimeo.com/video/199792084" width="720" height="520" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+</t>
+<t tx="leo.20170118025314.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170118025314.2">##利用Excel畫出路線圖
+
+將路徑存成csv檔，用Excel打開，再製成圖表 
+
+&lt;img src="http://i.imgur.com/aKBlRRl.png"width= "720"&gt;</t>
+<t tx="leo.20170118025316.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170118025316.2">##操作影片
+
+&lt;iframe src="https://player.vimeo.com/video/199798135" width="720" height="520" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>
